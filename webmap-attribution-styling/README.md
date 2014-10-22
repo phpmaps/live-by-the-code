@@ -1,4 +1,4 @@
-#ArcGIS API for JavaScript CSS Code to Stylize a Web Map Attribution Widget
+#ArcGIS API for JavaScript CSS Code to Stylize the Attribution Widget within a Web Map
 
 Shows the CSS code to adjust the appearance of the attribution in a Web Map (sometimes referred to as data credits) found in the 
 bottom right corner of the map.  Stylizing Web Map attribution is a bit different from stylizing a classic map object
